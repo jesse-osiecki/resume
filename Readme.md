@@ -1,22 +1,19 @@
 # Jesse J Osiecki
 #### Programmer, Human
-_205 Barnes St.
-Carrboro, NC 27510
-+1 (919) 757 3772
-osiecki@riseup.net
-https://jjo.ninja
-https://github.com/stratosmacker_
+* 205 Barnes Street Carrboro, NC 27510
+* +1 (919) 757 3772
+* osiecki@riseup.net
+* https://jjo.ninja
+* https://github.com/stratosmacker
 
 ### Programming
-Python
-Bash, Java, C, PHP, Assembly (MIPS, x86)
-CSS3, javascript, & HTML5
+Python, Bash, Java, C, C++, PHP, Assembly (MIPS, x86)
+CSS3, Javascript, & HTML5
 
 ### Education
-2012--Now
-Bachelors
-The University of North Carolina at Chapel Hill
-Computer Science
+#### _(2012-Now)_ Bachelors
+The University of North Carolina at Chapel Hill --
+_Computer Science_
 
 ### Work Experience
 ##### _(2015-Now)_ Bardess
