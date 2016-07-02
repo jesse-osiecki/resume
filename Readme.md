@@ -2,7 +2,7 @@
 #### Programmer, Human
 * 205 Barnes Street Carrboro, NC 27510
 * +1 (919) 757 3772
-* osiecki@riseup.net
+* jesse@jjo.ninja + osiecki@riseup.net
 * https://jjo.ninja
 * https://github.com/stratosmacker
 
