@@ -10,6 +10,9 @@
 Python, Bash, Java, C, C++, PHP, Assembly (MIPS, x86)
 CSS3, Javascript, & HTML5
 
+### Hardware
+Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II
+
 ### Education
 #### _(2012-Now)_ Bachelors
 The University of North Carolina at Chapel Hill --
@@ -23,10 +26,6 @@ _Computer Science_
 * Designed data visualization extensions for platforms such as QlikSense
 * Conducted security audits and monitored servers using, OSSEC, fail2ban, logstash/elasticsearch, and NewRelic
 * Built databases in MongoDB, OracleDB, Mysql, PostgresSQL, and built data-connectors for them.
-
-##### _(2015)_ IBM
-###### Software Development Intern
- * Ran FVT testing for the zCloud project.
 
 ##### _(2014)_ MeetAtPark.com
 ###### Developer
