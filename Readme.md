@@ -3,7 +3,6 @@
 * 205 Barnes Street Carrboro, NC 27510
 * +1 (919) 757 3772
 * jesse@jjo.ninja + osiecki@riseup.net
-* https://jjo.ninja
 * https://github.com/stratosmacker
 
 ### Programming
@@ -14,12 +13,12 @@ CSS3, Javascript, & HTML5
 Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II
 
 ### Education
-#### _(2012-Now)_ Bachelors
+#### _(2012-2016)_ Bachelors
 The University of North Carolina at Chapel Hill --
 _Computer Science_
 
 ### Work Experience
-##### _(2015-Now)_ Bardess
+##### _(2015-2016)_ Bardess
 ###### Software Consultant
 * Design client websites and HTTP data connectors in Node.js, PHP, and Java's Spring framework
 * Create effecient managed systems and environments using products such as Amazon's Web Services and Salt
