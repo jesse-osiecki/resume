@@ -18,6 +18,12 @@ The University of North Carolina at Chapel Hill --
 _Computer Science_
 
 ### Work Experience
+##### _(2016-2017)_ Mesur.io
+###### Software Engineer
+* Fullstack development in Java and Javascript
+* Low Level programming in C
+* Hands on circuit building and design
+* Management of MongoDB's and Apache Spark instances
 ##### _(2015-2016)_ Bardess
 ###### Software Consultant
 * Design client websites and HTTP data connectors in Node.js, PHP, and Java's Spring framework
