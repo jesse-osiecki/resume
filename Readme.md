@@ -24,6 +24,7 @@ _Computer Science_
 * Low Level programming in C
 * Hands on circuit building and design
 * Management of MongoDB's and Apache Spark instances
+
 ##### _(2015-2016)_ Bardess
 ###### Software Consultant
 * Design client websites and HTTP data connectors in Node.js, PHP, and Java's Spring framework
