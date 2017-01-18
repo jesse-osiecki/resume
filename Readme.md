@@ -1,5 +1,5 @@
 # Jesse J Osiecki
-#### Programmer, Human
+#### Programmer
 * 205 Barnes Street Carrboro, NC 27510
 * +1 (919) 757 3772
 * jesse@jjo.ninja + osiecki@riseup.net
@@ -28,7 +28,8 @@ _Computer Science_
 ##### _(2015-2016)_ Bardess
 ###### Software Consultant
 * Design client websites and HTTP data connectors in Node.js, PHP, and Java's Spring framework
-* Create effecient managed systems and environments using products such as Amazon's Web Services and Salt
+* Create effecient managed systems and environments using products such as Amazon's Web Services and Salt to manage configurations
+* Fixed automations run with Ansible
 * Designed data visualization extensions for platforms such as QlikSense
 * Conducted security audits and monitored servers using, OSSEC, fail2ban, logstash/elasticsearch, and NewRelic
 * Built databases in MongoDB, OracleDB, Mysql, PostgresSQL, and built data-connectors for them.
