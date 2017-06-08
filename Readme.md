@@ -22,10 +22,7 @@ Ansible, Salt, Puppet
 Linux, OpenBSD, FreeBSD, Windows NT 5.0 and greater
 
 ### Hardware
-Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II
-
-### Other Technology
-2D CAD, general electronics
+Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II, general electronics
 
 ### Education
 #### _(2012-2016)_ Bachelors
