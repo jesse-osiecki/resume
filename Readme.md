@@ -1,7 +1,5 @@
 # Jesse J Osiecki
 #### Programmer
-* 205 Barnes Street Carrboro, NC 27510
-* +1 (919) 757 3772
 * jesse@jjo.ninja
 * https://github.com/stratosmacker
 
