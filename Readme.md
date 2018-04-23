@@ -28,6 +28,14 @@ The University of North Carolina at Chapel Hill --
 _Computer Science_
 
 ### Work Experience
+##### _(2017-2018)_ SolarWinds MSP
+###### Senior DevOps AWS Engineer
+* Managed mult-region and cross-account application deployments on AWS and bare-hardware
+* Administered systems with Ansible, Chef, Terraform, and other home-built tooling
+* Worked part of on-call rotation with a multi-tiered support model
+* Designed self-healing and autoscaling components for existing legacy applications
+* Built automations with Python and Boto3
+
 ##### _(2016-2017)_ Mesur.io
 ###### Software Engineer
 * Fullstack development in Java and Javascript
