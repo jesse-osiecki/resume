@@ -1,7 +1,7 @@
 # Jesse J Osiecki
 #### Programmer
 * jesse@jjo.ninja
-* https://github.com/stratosmacker
+* Github: https://github.com/stratosmacker
 
 ### Programming Languages
 Python, Bash, PowerShell, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
