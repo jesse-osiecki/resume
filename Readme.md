@@ -1,7 +1,7 @@
 # Jesse J Osiecki
 #### Programmer
 * jesse@jjo.ninja
-* Github: https://github.com/stratosmacker
+* <https://github.com/stratosmacker>
 
 ### Programming Languages
 Python, Bash, PowerShell, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
@@ -11,7 +11,7 @@ CSS3, Javascript, Markdown, & HTML5
 MySQL, PostgresSQL, SQLite, MongoDB, Redis
 
 ### Cloud Infrastructure
-Amazon Web Servces, Digital Ocean, Linode
+Amazon Web Servces, Terraform, CloudFormation
 
 ### Automation Frameworks
 Ansible, Salt, Puppet
