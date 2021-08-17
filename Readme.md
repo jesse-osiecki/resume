@@ -1,23 +1,23 @@
 # Jesse J Osiecki
 #### Programmer
 * jesse@jjo.ninja
-* <https://github.com/stratosmacker>
+* <https://github.com/jesse-osiecki>
 
 ### Programming Languages
-Python, Bash, PowerShell, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
+Python, Bash, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
 CSS3, Javascript, Markdown, & HTML5
 
 ### Databases and Data Stores
 MySQL, PostgresSQL, SQLite, MongoDB, Redis
 
 ### Cloud Infrastructure
-Amazon Web Servces, Terraform, CloudFormation
+Amazon Web Servces, Google Cloud Platform, Azure, Packer, Kubernetes
 
 ### Automation Frameworks
-Ansible, Salt, Puppet
+Ansible, Terraform, Salt, Puppet, CloudFormation, Helm
 
 ### Operating Systems
-Linux, OpenBSD, FreeBSD, Windows NT 5.0 and greater
+Linux, OpenBSD, FreeBSD
 
 ### Hardware
 Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II, general electronics
@@ -28,9 +28,28 @@ The University of North Carolina at Chapel Hill --
 _Computer Science_
 
 ### Work Experience
-##### _(2017-2018)_ SolarWinds MSP
+##### _(2020-Current)_ SolarWinds MSP / N-Able
+###### DevSecOps Engineer
+* Built DAST tooling with OWASP ZAP to scan products for vulnerabilities
+* Participated in coordinated incident response
+* Used Python and masscan to build data aggregators and collection to improve network visibility
+* Improved security posture through WAF and other defensive technologies
+* Implemented AWS GuardDuty alerting with SOC
+* Assisted in coordination of pentests with third-party vendors and issue remediation
+
+##### _(2019-2020)_ Opsline
+###### DevOps Engineer
+* Built cloud offerings for clients in GCP, Azure, and AWS
+* Ported existing applications to Kubernetes
+* Managed existing infrastructure for clients to ensure uptime and best practices
+* Built new infrastructure using Cloudformation and Terraform
+* Built and ran load tests with Locust and JMeter for clients
+* Managed client expectations
+* Built Security pipelines with OWASP ZAP and SonarQube
+
+##### _(2017-2019)_ SolarWinds MSP
 ###### Senior DevOps AWS Engineer
-* Managed mult-region and cross-account application deployments on AWS and bare-hardware
+* Managed multi-region and cross-account application deployments on AWS and bare-hardware
 * Administered systems with Ansible, Chef, Terraform, and other home-built tooling
 * Worked part of on-call rotation with a multi-tiered support model
 * Designed self-healing and autoscaling components for existing legacy applications
