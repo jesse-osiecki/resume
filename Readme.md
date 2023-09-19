@@ -4,14 +4,14 @@
 * <https://github.com/jesse-osiecki>
 
 ### Programming Languages
-Python, Bash, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
+Python, Bash, Go, Java, C, C++, PHP, Python, Assembly (MIPS, x86)
 CSS3, Javascript, Markdown, & HTML5
 
 ### Databases and Data Stores
 MySQL, PostgresSQL, SQLite, MongoDB, Redis
 
 ### Cloud Infrastructure
-Amazon Web Servces, Google Cloud Platform, Azure, Packer, Kubernetes
+Amazon Web Servces, Google Cloud Platform, Azure, Packer, Kubernetes, Docker, Kafka, Hashicorp Vault
 
 ### Automation Frameworks
 Ansible, Terraform, Salt, Puppet, CloudFormation, Helm
@@ -28,7 +28,16 @@ The University of North Carolina at Chapel Hill --
 _Computer Science_
 
 ### Work Experience
-##### _(2020-Current)_ SolarWinds MSP / N-Able
+
+##### _(2021-Current)_ Policygenius
+###### Senior Site Reliabiity Engineer II
+* Deployed and maintained Hashicorp Vault to manage secrets for application runtimes
+* Created set of alerting and monitoring standards for the engineering organization
+* Stewarded best practices in Terraform, Kubernetes, and other cloud infrastructure
+* Worked with engineering teams to ensure resiliency of applications
+* Identified and reduced cloud spend
+
+##### _(2020-2021)_ SolarWinds MSP / N-Able
 ###### DevSecOps Engineer
 * Built DAST tooling with OWASP ZAP to scan products for vulnerabilities
 * Participated in coordinated incident response
