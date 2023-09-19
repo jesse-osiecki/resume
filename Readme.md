@@ -11,7 +11,7 @@ CSS3, Javascript, Markdown, & HTML5
 MySQL, PostgresSQL, SQLite, MongoDB, Redis
 
 ### Cloud Infrastructure
-Amazon Web Servces, Google Cloud Platform, Azure, Packer, Kubernetes, Docker, Kafka, Hashicorp Vault
+Amazon Web Services, Google Cloud Platform, Azure, Packer, Kubernetes, Docker, Kafka, Hashicorp Vault, Datadog
 
 ### Automation Frameworks
 Ansible, Terraform, Salt, Puppet, CloudFormation, Helm
@@ -20,22 +20,19 @@ Ansible, Terraform, Salt, Puppet, CloudFormation, Helm
 Linux, OpenBSD, FreeBSD
 
 ### Hardware
-Arduino, Raspberry Pi, and Spark Core. Baremetal Programming on an Apple II, general electronics
-
-### Education
-#### _(2012-2016)_ Bachelors
-The University of North Carolina at Chapel Hill --
-_Computer Science_
+Arduino, Raspberry Pi, Spark Core, Apple II, 8-bit microcontroller
 
 ### Work Experience
 
 ##### _(2021-Current)_ Policygenius
-###### Senior Site Reliabiity Engineer II
+###### Senior Site Reliability Engineer II
+* Responsible for:
+    * Stewarding best practices in Terraform, Kubernetes, and other cloud infrastructure
+    * Working with engineering teams to ensure resiliency and observability of applications
+    * Identifying and reduced cloud spend
+    * Mentoring team members
 * Deployed and maintained Hashicorp Vault to manage secrets for application runtimes
 * Created set of alerting and monitoring standards for the engineering organization
-* Stewarded best practices in Terraform, Kubernetes, and other cloud infrastructure
-* Worked with engineering teams to ensure resiliency of applications
-* Identified and reduced cloud spend
 
 ##### _(2020-2021)_ SolarWinds MSP / N-Able
 ###### DevSecOps Engineer
@@ -93,3 +90,8 @@ _Computer Science_
 ###### Computer Science Undergraduate Research Fellow
 * Devised a method to both automatically and efficiently review books in TarHeelReader.org, primarily through machine learning methods in Python
 * Improved rating system through machine learning methods
+
+### Education
+#### _(2012-2016)_ Bachelors
+The University of North Carolina at Chapel Hill --
+_Computer Science_
