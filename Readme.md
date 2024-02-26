@@ -33,6 +33,7 @@ Arduino, Raspberry Pi, Spark Core, Apple II, 8-bit microcontroller
     * Mentoring team members
 * Deployed and maintained Hashicorp Vault to manage secrets for application runtimes
 * Created set of alerting and monitoring standards for the engineering organization
+* Migrated build pipelines to SaaS tools including Github Actions, Spacelift, and Hashicorp Terraform Cloud
 
 ##### _(2020-2021)_ SolarWinds MSP / N-Able
 ###### DevSecOps Engineer
